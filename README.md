@@ -11,7 +11,9 @@ Criar um dashboard básico no Azure para acompanhamento de recursos e custos uti
 
 ## Dashboard
 ![Dashboard de Monitoramento](./image.png)
+
 ![Dashboard de Monitoramento](./image_1.png)
+
 ![Dashboard de Monitoramento](./image_2.png)
 
 
