@@ -41,7 +41,3 @@ Criar um dashboard básico no Azure para acompanhamento de recursos e custos uti
 - Organização de recursos na nuvem
 - Criação de dashboards básicos
 - Monitoramento de custos
-
-## Links Úteis
-- [Documentação do Azure](https://docs.microsoft.com/pt-br/azure/)
-- [Tutoriais para Iniciantes](https://learn.microsoft.com/pt-br/azure/azure-portal/)
